@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m Anish Lokhande, a Final Year B.Tech CSE student and Innovative Engineer. Recognized as the Second Year Topper at JSPM’s Bhagwant Institute of Technology, I combine academic excellence with a passion for building functional, high-tech solutions. From developing AI-driven fraud detection systems to crafting modern web experiences, I thrive on turning complex problems into elegant code. 
 
 My expertise spans Web Development, WordPress Developer. I enjoy building functional, responsive applications that solve real-world problems, from financial fraud detection to creative music streaming platforms.
