@@ -8,14 +8,14 @@ My expertise spans Full-Stack Web Development, WordPress Developer. I enjoy buil
 ---
 
 ## 🚀 Featured Projects:
-* **[Transaction Fraud Detection System](https://fraudalerts.netlify.app/)** 
+* Click Here-->**[Transaction Fraud Detection System](https://fraudalerts.netlify.app/)** 
     * ML-based Streamlit app with real-time Twilio SMS/Email alerts.
-* [cite_start]**[Metrix Traders](https://metrixtraders.netlify.app/)**
-    * [cite_start]Business analysis and marketing management platform.
-* [cite_start]**[Vibeify - Music Player](https://vibeiify.netlify.app/)** 
-    * [cite_start]Responsive music streaming web app with modern UI.
-* [cite_start]**[Netflix Clone](https://netmirrors.netlify.app/)** 
-    * [cite_start]Responsive homepage with advanced CSS hover effects.
+* Click Here-->**[Metrix Traders](https://metrixtraders.netlify.app/)**
+    * Business analysis and marketing management platform.
+* Click Here-->**[Vibeify - Music Player](https://vibeiify.netlify.app/)** 
+    * Responsive music streaming web app with modern UI.
+* Click Here-->**[Netflix Clone](https://netmirrors.netlify.app/)** 
+    * Responsive homepage with advanced CSS hover effects.
 
 ---
 
@@ -35,4 +35,4 @@ My expertise spans Full-Stack Web Development, WordPress Developer. I enjoy buil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-lokhande/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishlokhande123@gmail.com) 
 
 ---
-[cite_start]*Interests: 🎸 Guitar, 📸 Photography, 🎥 Cinematography* [cite: 27, 28]
+[cite_start]*Interests: 🎸 Guitar, 📸 Photography, 🎥 Cinematography*
