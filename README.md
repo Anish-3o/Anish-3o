@@ -1,23 +1,21 @@
 # 💫 About Me:
-[cite_start]I'm Anish Lokhande, a Final Year B.Tech Computer Science & Engineering student at JSPM's Bhagwant Institute of Technology, Barshi[cite: 1, 4]. [cite_start]I am a Published Researcher and was recognized as the Second Year Topper. 
+I'm Anish Lokhande, a Final Year B.Tech Computer Science & Engineering student at JSPM's Bhagwant Institute of Technology, Barshi. I am a Published Researcher and was recognized as the Second Year Topper. 
 
-[cite_start]My expertise spans Full-Stack Web Development, WordPress, and Machine Learning[cite: 13, 24, 28]. [cite_start]I enjoy building functional, responsive applications that solve real-world problems, from financial fraud detection to creative music streaming platforms[cite: 12, 18, 20].
+My expertise spans Full-Stack Web Development, WordPress Developer. I enjoy building functional, responsive applications that solve real-world problems, from financial fraud detection to creative music streaming platforms.
 
-- [cite_start]🎓 **Education:** B.Tech in CSE (2022-2026), GPA: 7.5 
-- [cite_start]💼 **Experience:** Python Development Intern & Training and Placement Coordinator [cite: 6, 10]
-- 🎯 **Target Roles:** Web Developer Intern / Software Developer Intern
-
+🎓 **Education:** B.Tech in CSE (2022-2026), GPA: 7.5 
+💼 **Experience:** Python Development Intern & Training and Placement Coordinator
 ---
 
 ## 🚀 Featured Projects:
-* [cite_start]**[Transaction Fraud Detection System](https://github.com/yourlinkhere)** [cite: 12]
-    * [cite_start]ML-based Streamlit app with real-time Twilio SMS/Email alerts[cite: 14, 15].
-* [cite_start]**[Metrix Traders](https://github.com/yourlinkhere)** [cite: 16]
-    * [cite_start]Business analysis and marketing management platform[cite: 17].
-* [cite_start]**[Vibeify - Music Player](https://github.com/yourlinkhere)** [cite: 18]
-    * [cite_start]Responsive music streaming web app with modern UI[cite: 20].
-* [cite_start]**[Netflix Clone](https://github.com/yourlinkhere)** [cite: 22]
-    * [cite_start]Responsive homepage with advanced CSS hover effects[cite: 22].
+* **[Transaction Fraud Detection System](https://fraudalerts.netlify.app/)** 
+    * ML-based Streamlit app with real-time Twilio SMS/Email alerts.
+* [cite_start]**[Metrix Traders](https://metrixtraders.netlify.app/)**
+    * [cite_start]Business analysis and marketing management platform.
+* [cite_start]**[Vibeify - Music Player](https://vibeiify.netlify.app/)** 
+    * [cite_start]Responsive music streaming web app with modern UI.
+* [cite_start]**[Netflix Clone](https://netmirrors.netlify.app/)** 
+    * [cite_start]Responsive homepage with advanced CSS hover effects.
 
 ---
 
