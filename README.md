@@ -3,7 +3,7 @@ I’m Anish Lokhande, a Final Year B.Tech CSE student and Innovative Engineer. R
 
 My expertise spans Web Development, WordPress Developer. I enjoy building functional, responsive applications that solve real-world problems, from financial fraud detection to creative music streaming platforms.
 
-🎓 **Education:** B.Tech in CSE (2022-2026), GPA: 7.5 
+🎓 **Education:** B.Tech in CSE (2022-2026), GPA: 8.5 
 💼 **Experience:** Python Development Intern & Training and Placement Coordinator
 ---
 
